@@ -1,0 +1,16 @@
+﻿# Visual Studio
+.vs/
+bin/
+obj/
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Application logs
+*.log
+
+# User-specific files
+*.user
+*.suo
